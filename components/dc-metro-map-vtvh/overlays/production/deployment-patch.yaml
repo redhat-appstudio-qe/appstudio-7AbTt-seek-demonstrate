@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: dc-metro-map-vtvh
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
